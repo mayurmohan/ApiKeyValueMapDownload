@@ -1,0 +1,5 @@
+steps:
+  apiProxyDownload:
+    apimApiServiceKeyCredentialsId: myapimServiceKey
+    apiProxyName: Customer360Demo
+    downloadPath: ./proxy
