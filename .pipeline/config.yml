@@ -2,4 +2,4 @@ steps:
   apiKeyValueMapDownload:
     apimApiServiceKeyCredentialsId: myapimServiceKey
     keyValueMapName: Customer360Demo
-    downloadPath: ./proxy
+    downloadPath: ./keyvaluemapdir
